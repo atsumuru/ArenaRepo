@@ -1,2 +1,2 @@
 # ArenaRepo
-please. -- https://atsumuru.github.io/ArenaRepo/
+https://atsumuru.github.io/ArenaRepo/
